@@ -1,16 +1,16 @@
 {
-  "timestamp": "2026-04-27 11:16:23.170093",
+  "timestamp": "2026-04-27 22:16:18.849654",
   "instruments": [
     "AAPL",
     "EURUSD",
     "MSFT"
   ],
-  "total_trades": 214,
-  "win_rate_pct": 87.9,
-  "total_return_pct": 220.46,
+  "total_trades": 233,
+  "win_rate_pct": 85.0,
+  "total_return_pct": 222.77,
   "sharpe_ratio": 2.5,
   "max_drawdown_pct": 8.0,
-  "avg_pnl_per_trade": 1.03,
+  "avg_pnl_per_trade": 0.96,
   "initial_capital": 100000.0,
   "equity_curve": [
     51402.67955130919,
@@ -1517,8 +1517,8 @@
     }
   ],
   "exit_reasons": {
-    "trailing_stop": 188,
-    "stop_loss": 26
+    "trailing_stop": 198,
+    "stop_loss": 35
   },
-  "num_trades": 214
+  "num_trades": 233
 }
